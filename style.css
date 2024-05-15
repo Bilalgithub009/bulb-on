@@ -1,0 +1,60 @@
+ body{
+font-family: Arial, Helvetica, sans-serif;
+/* background-color: lightseagreen; */
+/* background-image: url("https://img.pikbest.com/wp/202350/light-illumination-vintage-style-bulb-in-3d-illuminating-business-strategy-background_9788849.jpg!w700wp"); */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 44px;
+
+}
+
+.head {
+    text-align: center;
+    font-size: 60px;
+
+}
+
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+.btndesign {
+    background-color: yellow;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 20px;
+    border: 2px solid yellow;
+    color: black;
+}
+
+.btndesign2 {
+    background-color: yellow;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 20px;
+    border: 2px solid yellow;
+    color: black;
+}
